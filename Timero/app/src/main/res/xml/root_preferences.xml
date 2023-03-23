@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory>
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="save_timer"
+            android:title="@string/save_timer" />
+        <SwitchPreferenceCompat
+            app:key="theme_value"
+            app:title="@string/dark_mode" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

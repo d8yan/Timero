@@ -1,0 +1,37 @@
+<resources>
+    <!-- App Headers -->
+    <string name="app_name">Timero</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_tasks">Tasks</string>
+
+    <!-- Settings -->
+    <string name="save_timer">Save Timer on Close</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="clear_task_msg">Tasks are cleared!</string>
+    <string name="clear_task">clear Tasks</string>
+    <!-- Menu -->
+    <string name="menu_tasks">Tasks</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_home">Home</string>
+
+    <!-- Task Pages -->
+    <string name="add_task">Add Task</string>
+    <string name="submit">submit</string>
+    <string name="task">Task</string>
+
+
+
+    <!-- Notification -->
+    <string name="notification_title">Task Completed</string>
+    <string name="notification_text">You have completed another task</string>
+    <!-- Timer   -->
+    <string name="drag_target">Drag Time  to Here!</string>
+    <string name="short_break">Break Time</string>
+    <string name="study_time">Study Time</string>
+    <string name="btn_reset">Reset</string>
+
+    <!--Snack bar and float action button-->
+    <string name="fb_reset">You\'re reseting the timer!</string>
+
+
+</resources>
